@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crytoblockzi-cryptoweb/static/css/main.a5895990.chunk.css",
+    "main.js": "/crytoblockzi-cryptoweb/static/js/main.a1798988.chunk.js",
+    "main.js.map": "/crytoblockzi-cryptoweb/static/js/main.a1798988.chunk.js.map",
+    "runtime-main.js": "/crytoblockzi-cryptoweb/static/js/runtime-main.44c22c8e.js",
+    "runtime-main.js.map": "/crytoblockzi-cryptoweb/static/js/runtime-main.44c22c8e.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/crytoblockzi-cryptoweb/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.ed12f44f.chunk.js": "/crytoblockzi-cryptoweb/static/js/2.ed12f44f.chunk.js",
+    "static/js/2.ed12f44f.chunk.js.map": "/crytoblockzi-cryptoweb/static/js/2.ed12f44f.chunk.js.map",
+    "index.html": "/crytoblockzi-cryptoweb/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/crytoblockzi-cryptoweb/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.a5895990.chunk.css.map": "/crytoblockzi-cryptoweb/static/css/main.a5895990.chunk.css.map",
+    "static/js/2.ed12f44f.chunk.js.LICENSE.txt": "/crytoblockzi-cryptoweb/static/js/2.ed12f44f.chunk.js.LICENSE.txt",
+    "static/media/portfolio.7bd03322.png": "/crytoblockzi-cryptoweb/static/media/portfolio.7bd03322.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44c22c8e.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.ed12f44f.chunk.js",
+    "static/css/main.a5895990.chunk.css",
+    "static/js/main.a1798988.chunk.js"
+  ]
+}
